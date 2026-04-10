@@ -133,10 +133,3 @@ Player catches 5 correct balls	That player wins
 Player misses 15 of their color	Opponent wins
 
 Wrong catch resets score	No winner, continue
-
-
-📜 License
-
-This project is for educational and academic purposes.
-
-You may modify and extend it freely.
