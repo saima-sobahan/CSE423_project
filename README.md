@@ -1,4 +1,7 @@
 🎮 Catch the Ball – OpenGL Python Game
+
+
+
 📌 Overview
 
 Catch the Ball is a two-player OpenGL game built using Python, where both players choose a preferred color and try to catch falling balls of that color using their baskets.
