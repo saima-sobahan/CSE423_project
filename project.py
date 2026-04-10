@@ -1,15 +1,8 @@
 #Catch the Ball
-
-
-
 #GAME RULES
 #Players can choose their preferred colors.
 #Whoever catches 5 of their preferred balls first wins
 #However if any player misses their respective colors 15 times then the opponent wins by default
-
-
-
-
 
 from OpenGL.GL import *
 from OpenGL.GLUT import *
