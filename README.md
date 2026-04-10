@@ -116,6 +116,7 @@ Player 2 cannot choose Player 1's selected color.
 📁 File Structure (Suggested)
 
 project/
+
 │── catch_the_ball.py
 
 │── README.md
@@ -126,7 +127,6 @@ project/
 
 🏆 Win Conditions
 
-Condition	Winner
 
 Player catches 5 correct balls	That player wins
 
