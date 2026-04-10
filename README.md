@@ -13,6 +13,7 @@ Scoring, penalty, pause, restart & exit
 Randomized ball colors & movement
 
 🧩 Game Rules
+
 Both players choose their preferred ball color at the start.
 Players move their baskets to catch balls of their chosen color.
 First player to catch 5 correct-colored balls wins.
@@ -23,6 +24,7 @@ Use Restart to reset game state.
 The Cross icon closes the game.
 
 🎮 Controls
+
 Player 1 (Left Basket) – Keyboard
 Key	Action
 A	Move Left
@@ -42,6 +44,7 @@ Click Restart Button	Restart game
 Click Cross Button	Close game
 
 🚀 How to Run
+
 Install dependencies:
 pip install PyOpenGL PyOpenGL_accelerate
 
@@ -60,6 +63,7 @@ yellow, red, blue, green, aqua, purple, orange
 Player 2 cannot choose Player 1's selected color.
 
 ⚙️ Features Implemented
+
 ✔ Real-time falling balls with variable speeds
 ✔ Ball–basket collision detection
 ✔ Wrong catch resets score
@@ -71,6 +75,7 @@ Player 2 cannot choose Player 1's selected color.
 ✔ Random horizontal ball wiggle
 
 📁 File Structure (Suggested)
+
 project/
 │── catch_the_ball.py
 │── README.md
@@ -78,6 +83,7 @@ project/
 
 
 🏆 Win Conditions
+
 Condition	Winner
 Player catches 5 correct balls	That player wins
 Player misses 15 of their color	Opponent wins
@@ -85,5 +91,6 @@ Wrong catch resets score	No winner, continue
 
 
 📜 License
+
 This project is for educational and academic purposes.
 You may modify and extend it freely.
